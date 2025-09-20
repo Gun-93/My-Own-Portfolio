@@ -38,9 +38,10 @@ This project showcases my skills, projects, and experience as a web developer in
 
 If you want to connect or collaborate:
 
-- **Email:** [your-email@example.com](gunpcity@gmail.com)
-- **LinkedIn:** [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gunkeshri/))
-- **GitHub:** [Your GitHub]([https://github.com/your-username](https://github.com/Gun-93))
+- **Email:** gunpcity@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/gunkeshri/](https://www.linkedin.com/in/gunkeshri/)
+- **GitHub:** [https://github.com/Gun-93](https://github.com/Gun-93)
+
 
 ---
 ## Future Scope
