@@ -26,7 +26,6 @@ This project showcases my skills, projects, and experience as a web developer in
 
 ## Preview
 
-![Portfolio Screenshot](GUN.jpg)
 <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/525861c6-0787-41ee-a4d7-ce8e6d7cf9b9" />
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/825e5a04-0998-4478-9b3e-272235f94a9c" />
 <img width="1913" height="881" alt="image" src="https://github.com/user-attachments/assets/06f330af-0aea-4fff-a5fc-b9504d60909e" />
